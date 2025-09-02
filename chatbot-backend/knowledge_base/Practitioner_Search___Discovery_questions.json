@@ -1,0 +1,434 @@
+[
+  {
+    "qid":9,
+    "id":475,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to search by weekend availability quickly?"
+  },
+  {
+    "qid":36,
+    "id":358,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to see top-rated practitioners this week using Ambel?"
+  },
+  {
+    "qid":60,
+    "id":472,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to find practitioners with evening slots quickly?"
+  },
+  {
+    "qid":79,
+    "id":326,
+    "category":"Practitioner Search & Discovery",
+    "question":"Where can I see practitioners available today from my phone?"
+  },
+  {
+    "qid":83,
+    "id":291,
+    "category":"Practitioner Search & Discovery",
+    "question":"Can I check a practitioner's license through the Ambel app?"
+  },
+  {
+    "qid":85,
+    "id":234,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to find a lawyer in my city from my computer?"
+  },
+  {
+    "qid":134,
+    "id":319,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I compare two practitioners using Ambel?"
+  },
+  {
+    "qid":140,
+    "id":391,
+    "category":"Practitioner Search & Discovery",
+    "question":"Can I see who is online now as a first-time user?"
+  },
+  {
+    "qid":154,
+    "id":397,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I find female practitioners only on Ambel?"
+  },
+  {
+    "qid":180,
+    "id":252,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support search for a therapist online from my computer?"
+  },
+  {
+    "qid":185,
+    "id":231,
+    "category":"Practitioner Search & Discovery",
+    "question":"How can I find a doctor near me on Ambel?"
+  },
+  {
+    "qid":210,
+    "id":495,
+    "category":"Practitioner Search & Discovery",
+    "question":"Can I see practitioners near a specific address step by step?"
+  },
+  {
+    "qid":214,
+    "id":300,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me save a practitioner to favorites without contacting support?"
+  },
+  {
+    "qid":216,
+    "id":469,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I find practitioners with evening slots through the Ambel app?"
+  },
+  {
+    "qid":225,
+    "id":377,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me search by hospital\/firm affiliation using Ambel?"
+  },
+  {
+    "qid":227,
+    "id":433,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support search by telehealth availability as a first-time user?"
+  },
+  {
+    "qid":231,
+    "id":490,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support see practitioners near a specific address without contacting support?"
+  },
+  {
+    "qid":281,
+    "id":418,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me find male practitioners only as a first-time user?"
+  },
+  {
+    "qid":286,
+    "id":354,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me see top-rated practitioners this week from my phone?"
+  },
+  {
+    "qid":291,
+    "id":301,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I save a practitioner to favorites from my computer?"
+  },
+  {
+    "qid":309,
+    "id":430,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I search by telehealth availability on Ambel?"
+  },
+  {
+    "qid":315,
+    "id":295,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support check a practitioner's license from my computer?"
+  },
+  {
+    "qid":352,
+    "id":256,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support filter practitioners by language step by step?"
+  },
+  {
+    "qid":358,
+    "id":244,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I search for a therapist online from my computer?"
+  },
+  {
+    "qid":372,
+    "id":476,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to search by weekend availability using Ambel?"
+  },
+  {
+    "qid":389,
+    "id":419,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I search by years of experience on Ambel?"
+  },
+  {
+    "qid":399,
+    "id":420,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me search by years of experience if I’m new here?"
+  },
+  {
+    "qid":430,
+    "id":375,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I search by hospital\/firm affiliation on Ambel?"
+  },
+  {
+    "qid":436,
+    "id":242,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support find a lawyer in my city as a first-time user?"
+  },
+  {
+    "qid":472,
+    "id":482,
+    "category":"Practitioner Search & Discovery",
+    "question":"How can I search by weekend availability if I’m new here?"
+  },
+  {
+    "qid":481,
+    "id":237,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I find a lawyer in my city using Ambel?"
+  },
+  {
+    "qid":484,
+    "id":447,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I find practitioners who offer home visits as a first-time user?"
+  },
+  {
+    "qid":490,
+    "id":294,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support check a practitioner's license from my phone?"
+  },
+  {
+    "qid":527,
+    "id":255,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support filter practitioners by language from my computer?"
+  },
+  {
+    "qid":543,
+    "id":322,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support see practitioners available today step by step?"
+  },
+  {
+    "qid":546,
+    "id":278,
+    "category":"Practitioner Search & Discovery",
+    "question":"Where can I see only verified practitioners from my computer?"
+  },
+  {
+    "qid":558,
+    "id":302,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I save a practitioner to favorites from my phone?"
+  },
+  {
+    "qid":572,
+    "id":380,
+    "category":"Practitioner Search & Discovery",
+    "question":"Can I search by hospital\/firm affiliation through the Ambel app?"
+  },
+  {
+    "qid":620,
+    "id":355,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me see top-rated practitioners this week step by step?"
+  },
+  {
+    "qid":625,
+    "id":312,
+    "category":"Practitioner Search & Discovery",
+    "question":"What’s the best way to compare two practitioners without contacting support?"
+  },
+  {
+    "qid":639,
+    "id":442,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support find practitioners who offer home visits quickly?"
+  },
+  {
+    "qid":708,
+    "id":467,
+    "category":"Practitioner Search & Discovery",
+    "question":"How can I find practitioners with evening slots through the Ambel app?"
+  },
+  {
+    "qid":728,
+    "id":461,
+    "category":"Practitioner Search & Discovery",
+    "question":"Who can help me search by languages like Bengali or Spanish on Ambel?"
+  },
+  {
+    "qid":734,
+    "id":243,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I search for a therapist online on Ambel?"
+  },
+  {
+    "qid":788,
+    "id":426,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support search by years of experience without contacting support?"
+  },
+  {
+    "qid":824,
+    "id":313,
+    "category":"Practitioner Search & Discovery",
+    "question":"What’s the best way to compare two practitioners on Ambel?"
+  },
+  {
+    "qid":837,
+    "id":414,
+    "category":"Practitioner Search & Discovery",
+    "question":"How can I find male practitioners only if I’m new here?"
+  },
+  {
+    "qid":842,
+    "id":309,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I compare two practitioners on Ambel?"
+  },
+  {
+    "qid":882,
+    "id":436,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to search by telehealth availability without contacting support?"
+  },
+  {
+    "qid":883,
+    "id":293,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to check a practitioner's license if I’m new here?"
+  },
+  {
+    "qid":892,
+    "id":283,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to see only verified practitioners from my phone?"
+  },
+  {
+    "qid":893,
+    "id":370,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I find practitioners who accept insurance if I’m new here?"
+  },
+  {
+    "qid":896,
+    "id":274,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support sort practitioners by rating step by step?"
+  },
+  {
+    "qid":906,
+    "id":371,
+    "category":"Practitioner Search & Discovery",
+    "question":"How can I find practitioners who accept insurance quickly?"
+  },
+  {
+    "qid":909,
+    "id":224,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I find a doctor near me from my computer?"
+  },
+  {
+    "qid":918,
+    "id":465,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to find practitioners with evening slots quickly?"
+  },
+  {
+    "qid":928,
+    "id":406,
+    "category":"Practitioner Search & Discovery",
+    "question":"How can I find female practitioners only from my phone?"
+  },
+  {
+    "qid":951,
+    "id":318,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I compare two practitioners on Ambel?"
+  },
+  {
+    "qid":1000,
+    "id":454,
+    "category":"Practitioner Search & Discovery",
+    "question":"Where can I search by languages like Bengali or Spanish from my computer?"
+  },
+  {
+    "qid":1017,
+    "id":258,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to filter practitioners by language from my computer?"
+  },
+  {
+    "qid":1053,
+    "id":360,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to see top-rated practitioners this week step by step?"
+  },
+  {
+    "qid":1062,
+    "id":336,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to filter by price range using Ambel?"
+  },
+  {
+    "qid":1072,
+    "id":449,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to find practitioners who offer home visits on Ambel?"
+  },
+  {
+    "qid":1074,
+    "id":456,
+    "category":"Practitioner Search & Discovery",
+    "question":"Is it possible to search by languages like Bengali or Spanish from my computer?"
+  },
+  {
+    "qid":1082,
+    "id":364,
+    "category":"Practitioner Search & Discovery",
+    "question":"How do I find practitioners who accept insurance on Ambel?"
+  },
+  {
+    "qid":1092,
+    "id":494,
+    "category":"Practitioner Search & Discovery",
+    "question":"Can I see practitioners near a specific address using Ambel?"
+  },
+  {
+    "qid":1106,
+    "id":437,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to search by telehealth availability if I’m new here?"
+  },
+  {
+    "qid":1127,
+    "id":334,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support filter by price range quickly?"
+  },
+  {
+    "qid":1150,
+    "id":233,
+    "category":"Practitioner Search & Discovery",
+    "question":"What if I need to find a lawyer in my city step by step?"
+  },
+  {
+    "qid":1153,
+    "id":412,
+    "category":"Practitioner Search & Discovery",
+    "question":"Do you support find male practitioners only from my phone?"
+  },
+  {
+    "qid":1181,
+    "id":329,
+    "category":"Practitioner Search & Discovery",
+    "question":"Can I see practitioners available today if I’m new here?"
+  },
+  {
+    "qid":1191,
+    "id":332,
+    "category":"Practitioner Search & Discovery",
+    "question":"When can I filter by price range using Ambel?"
+  }
+]

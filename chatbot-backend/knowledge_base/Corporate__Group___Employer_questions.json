@@ -1,0 +1,308 @@
+[
+  {
+    "qid":13,
+    "id":3378,
+    "category":"Corporate, Group & Employer",
+    "question":"How do I enable SSO for staff on Ambel?"
+  },
+  {
+    "qid":28,
+    "id":3461,
+    "category":"Corporate, Group & Employer",
+    "question":"What if I need to book an on-site clinic day through the Ambel app?"
+  },
+  {
+    "qid":39,
+    "id":3387,
+    "category":"Corporate, Group & Employer",
+    "question":"When can I enable SSO for staff without contacting support?"
+  },
+  {
+    "qid":58,
+    "id":3442,
+    "category":"Corporate, Group & Employer",
+    "question":"How can I whitelist preferred practitioners using Ambel?"
+  },
+  {
+    "qid":67,
+    "id":3322,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to restrict bookings to approved services using Ambel?"
+  },
+  {
+    "qid":69,
+    "id":3276,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to use an employer-provided plan from my computer?"
+  },
+  {
+    "qid":74,
+    "id":3466,
+    "category":"Corporate, Group & Employer",
+    "question":"How do I organize group therapy sessions on Ambel?"
+  },
+  {
+    "qid":107,
+    "id":3413,
+    "category":"Corporate, Group & Employer",
+    "question":"Can I set booking approval workflows through the Ambel app?"
+  },
+  {
+    "qid":128,
+    "id":3343,
+    "category":"Corporate, Group & Employer",
+    "question":"Who can help me get monthly invoices for my company quickly?"
+  },
+  {
+    "qid":130,
+    "id":3370,
+    "category":"Corporate, Group & Employer",
+    "question":"What if I need to set role-based permissions from my computer?"
+  },
+  {
+    "qid":157,
+    "id":3314,
+    "category":"Corporate, Group & Employer",
+    "question":"Who can help me restrict bookings to approved services step by step?"
+  },
+  {
+    "qid":196,
+    "id":3372,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I set role-based permissions from my phone?"
+  },
+  {
+    "qid":197,
+    "id":3339,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support get monthly invoices for my company through the Ambel app?"
+  },
+  {
+    "qid":198,
+    "id":3302,
+    "category":"Corporate, Group & Employer",
+    "question":"What if I need to add multiple employees to one account on Ambel?"
+  },
+  {
+    "qid":208,
+    "id":3357,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to invite team members to book on Ambel?"
+  },
+  {
+    "qid":244,
+    "id":3273,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I use an employer-provided plan if I’m new here?"
+  },
+  {
+    "qid":247,
+    "id":3275,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to use an employer-provided plan if I’m new here?"
+  },
+  {
+    "qid":249,
+    "id":3299,
+    "category":"Corporate, Group & Employer",
+    "question":"What if I need to set up corporate billing through the Ambel app?"
+  },
+  {
+    "qid":256,
+    "id":3384,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I enable SSO for staff quickly?"
+  },
+  {
+    "qid":282,
+    "id":3459,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support book an on-site clinic day through the Ambel app?"
+  },
+  {
+    "qid":289,
+    "id":3356,
+    "category":"Corporate, Group & Employer",
+    "question":"How do I invite team members to book on Ambel?"
+  },
+  {
+    "qid":313,
+    "id":3369,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support set role-based permissions using Ambel?"
+  },
+  {
+    "qid":325,
+    "id":3448,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support add a corporate referral code using Ambel?"
+  },
+  {
+    "qid":338,
+    "id":3437,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to whitelist preferred practitioners as a first-time user?"
+  },
+  {
+    "qid":391,
+    "id":3410,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support export company usage data as a first-time user?"
+  },
+  {
+    "qid":469,
+    "id":3432,
+    "category":"Corporate, Group & Employer",
+    "question":"How can I limit bookings to work hours from my computer?"
+  },
+  {
+    "qid":526,
+    "id":3457,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I book an on-site clinic day on Ambel?"
+  },
+  {
+    "qid":542,
+    "id":3451,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to add a corporate referral code if I’m new here?"
+  },
+  {
+    "qid":563,
+    "id":3318,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I restrict bookings to approved services on Ambel?"
+  },
+  {
+    "qid":614,
+    "id":3438,
+    "category":"Corporate, Group & Employer",
+    "question":"How do I whitelist preferred practitioners as a first-time user?"
+  },
+  {
+    "qid":671,
+    "id":3287,
+    "category":"Corporate, Group & Employer",
+    "question":"What’s the best way to book for a team workshop using Ambel?"
+  },
+  {
+    "qid":688,
+    "id":3428,
+    "category":"Corporate, Group & Employer",
+    "question":"When can I limit bookings to work hours from my phone?"
+  },
+  {
+    "qid":741,
+    "id":3483,
+    "category":"Corporate, Group & Employer",
+    "question":"Who can help me arrange legal seminars for staff step by step?"
+  },
+  {
+    "qid":744,
+    "id":3433,
+    "category":"Corporate, Group & Employer",
+    "question":"How do I whitelist preferred practitioners on Ambel?"
+  },
+  {
+    "qid":757,
+    "id":3480,
+    "category":"Corporate, Group & Employer",
+    "question":"Can I arrange legal seminars for staff quickly?"
+  },
+  {
+    "qid":770,
+    "id":3467,
+    "category":"Corporate, Group & Employer",
+    "question":"Is it possible to organize group therapy sessions quickly?"
+  },
+  {
+    "qid":849,
+    "id":3283,
+    "category":"Corporate, Group & Employer",
+    "question":"When can I book for a team workshop from my computer?"
+  },
+  {
+    "qid":860,
+    "id":3458,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support book an on-site clinic day step by step?"
+  },
+  {
+    "qid":903,
+    "id":3440,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support whitelist preferred practitioners on Ambel?"
+  },
+  {
+    "qid":933,
+    "id":3435,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I whitelist preferred practitioners without contacting support?"
+  },
+  {
+    "qid":940,
+    "id":3336,
+    "category":"Corporate, Group & Employer",
+    "question":"What’s the best way to get monthly invoices for my company on Ambel?"
+  },
+  {
+    "qid":947,
+    "id":3477,
+    "category":"Corporate, Group & Employer",
+    "question":"How do I arrange legal seminars for staff on Ambel?"
+  },
+  {
+    "qid":1032,
+    "id":3395,
+    "category":"Corporate, Group & Employer",
+    "question":"When can I use cost centers on invoices using Ambel?"
+  },
+  {
+    "qid":1058,
+    "id":3305,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I add multiple employees to one account step by step?"
+  },
+  {
+    "qid":1065,
+    "id":3415,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I set booking approval workflows step by step?"
+  },
+  {
+    "qid":1068,
+    "id":3313,
+    "category":"Corporate, Group & Employer",
+    "question":"Who can help me restrict bookings to approved services using Ambel?"
+  },
+  {
+    "qid":1144,
+    "id":3297,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I set up corporate billing if I’m new here?"
+  },
+  {
+    "qid":1159,
+    "id":3402,
+    "category":"Corporate, Group & Employer",
+    "question":"What’s the best way to export company usage data if I’m new here?"
+  },
+  {
+    "qid":1169,
+    "id":3330,
+    "category":"Corporate, Group & Employer",
+    "question":"Can I see corporate discounts from my phone?"
+  },
+  {
+    "qid":1188,
+    "id":3429,
+    "category":"Corporate, Group & Employer",
+    "question":"Do you support limit bookings to work hours as a first-time user?"
+  },
+  {
+    "qid":1192,
+    "id":3373,
+    "category":"Corporate, Group & Employer",
+    "question":"Where can I set role-based permissions without contacting support?"
+  }
+]

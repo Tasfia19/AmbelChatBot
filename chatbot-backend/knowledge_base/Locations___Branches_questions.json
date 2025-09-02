@@ -1,0 +1,308 @@
+[
+  {
+    "qid":4,
+    "id":3153,
+    "category":"Locations & Branches",
+    "question":"How do I switch branches after booking through the Ambel app?"
+  },
+  {
+    "qid":77,
+    "id":3212,
+    "category":"Locations & Branches",
+    "question":"Is it possible to get branch contact details if I’m new here?"
+  },
+  {
+    "qid":96,
+    "id":3134,
+    "category":"Locations & Branches",
+    "question":"How do I filter by distance from my phone?"
+  },
+  {
+    "qid":159,
+    "id":3170,
+    "category":"Locations & Branches",
+    "question":"What’s the best way to book across multiple branches step by step?"
+  },
+  {
+    "qid":162,
+    "id":3098,
+    "category":"Locations & Branches",
+    "question":"Is it possible to confirm wheelchair access without contacting support?"
+  },
+  {
+    "qid":169,
+    "id":3104,
+    "category":"Locations & Branches",
+    "question":"Who can help me book at a home-visit location on Ambel?"
+  },
+  {
+    "qid":183,
+    "id":3248,
+    "category":"Locations & Branches",
+    "question":"What if I need to see branch-specific prices step by step?"
+  },
+  {
+    "qid":202,
+    "id":3138,
+    "category":"Locations & Branches",
+    "question":"Who can help me see travel time estimates using Ambel?"
+  },
+  {
+    "qid":273,
+    "id":3197,
+    "category":"Locations & Branches",
+    "question":"Can I check local holiday schedules quickly?"
+  },
+  {
+    "qid":349,
+    "id":3080,
+    "category":"Locations & Branches",
+    "question":"What if I need to see directions to a clinic through the Ambel app?"
+  },
+  {
+    "qid":363,
+    "id":3173,
+    "category":"Locations & Branches",
+    "question":"When can I book across multiple branches quickly?"
+  },
+  {
+    "qid":398,
+    "id":3068,
+    "category":"Locations & Branches",
+    "question":"Is it possible to choose a preferred branch without contacting support?"
+  },
+  {
+    "qid":403,
+    "id":3183,
+    "category":"Locations & Branches",
+    "question":"Where can I see which branch has earlier slots quickly?"
+  },
+  {
+    "qid":411,
+    "id":3071,
+    "category":"Locations & Branches",
+    "question":"When can I see directions to a clinic from my phone?"
+  },
+  {
+    "qid":431,
+    "id":3223,
+    "category":"Locations & Branches",
+    "question":"How do I know if walk-ins are allowed from my phone?"
+  },
+  {
+    "qid":444,
+    "id":3229,
+    "category":"Locations & Branches",
+    "question":"What if I need to confirm mask requirements using Ambel?"
+  },
+  {
+    "qid":451,
+    "id":3267,
+    "category":"Locations & Branches",
+    "question":"What if I need to request a mobile clinic visit step by step?"
+  },
+  {
+    "qid":477,
+    "id":3217,
+    "category":"Locations & Branches",
+    "question":"Do you support know if walk-ins are allowed as a first-time user?"
+  },
+  {
+    "qid":535,
+    "id":3048,
+    "category":"Locations & Branches",
+    "question":"How do I find a clinic near me on Ambel?"
+  },
+  {
+    "qid":559,
+    "id":3145,
+    "category":"Locations & Branches",
+    "question":"How can I see travel time estimates quickly?"
+  },
+  {
+    "qid":592,
+    "id":3184,
+    "category":"Locations & Branches",
+    "question":"Where can I see which branch has earlier slots if I’m new here?"
+  },
+  {
+    "qid":627,
+    "id":3186,
+    "category":"Locations & Branches",
+    "question":"How can I see which branch has earlier slots from my computer?"
+  },
+  {
+    "qid":629,
+    "id":3202,
+    "category":"Locations & Branches",
+    "question":"How do I get branch contact details on Ambel?"
+  },
+  {
+    "qid":659,
+    "id":3125,
+    "category":"Locations & Branches",
+    "question":"How do I filter by distance on Ambel?"
+  },
+  {
+    "qid":670,
+    "id":3161,
+    "category":"Locations & Branches",
+    "question":"Where can I see branch opening hours if I’m new here?"
+  },
+  {
+    "qid":681,
+    "id":3172,
+    "category":"Locations & Branches",
+    "question":"When can I book across multiple branches from my phone?"
+  },
+  {
+    "qid":685,
+    "id":3075,
+    "category":"Locations & Branches",
+    "question":"Who can help me see directions to a clinic through the Ambel app?"
+  },
+  {
+    "qid":692,
+    "id":3127,
+    "category":"Locations & Branches",
+    "question":"What’s the best way to filter by distance through the Ambel app?"
+  },
+  {
+    "qid":701,
+    "id":3151,
+    "category":"Locations & Branches",
+    "question":"What if I need to switch branches after booking as a first-time user?"
+  },
+  {
+    "qid":730,
+    "id":3049,
+    "category":"Locations & Branches",
+    "question":"How can I find a clinic near me using Ambel?"
+  },
+  {
+    "qid":768,
+    "id":3181,
+    "category":"Locations & Branches",
+    "question":"When can I see which branch has earlier slots step by step?"
+  },
+  {
+    "qid":782,
+    "id":3131,
+    "category":"Locations & Branches",
+    "question":"Where can I filter by distance using Ambel?"
+  },
+  {
+    "qid":815,
+    "id":3086,
+    "category":"Locations & Branches",
+    "question":"Do you support check parking availability without contacting support?"
+  },
+  {
+    "qid":818,
+    "id":3261,
+    "category":"Locations & Branches",
+    "question":"Who can help me request a mobile clinic visit quickly?"
+  },
+  {
+    "qid":843,
+    "id":3233,
+    "category":"Locations & Branches",
+    "question":"Where can I confirm mask requirements from my computer?"
+  },
+  {
+    "qid":908,
+    "id":3117,
+    "category":"Locations & Branches",
+    "question":"Is it possible to search services by city without contacting support?"
+  },
+  {
+    "qid":964,
+    "id":3099,
+    "category":"Locations & Branches",
+    "question":"How do I confirm wheelchair access using Ambel?"
+  },
+  {
+    "qid":978,
+    "id":3054,
+    "category":"Locations & Branches",
+    "question":"How do I find a clinic near me as a first-time user?"
+  },
+  {
+    "qid":1001,
+    "id":3102,
+    "category":"Locations & Branches",
+    "question":"What if I need to confirm wheelchair access using Ambel?"
+  },
+  {
+    "qid":1016,
+    "id":3230,
+    "category":"Locations & Branches",
+    "question":"What if I need to confirm mask requirements if I’m new here?"
+  },
+  {
+    "qid":1048,
+    "id":3177,
+    "category":"Locations & Branches",
+    "question":"What if I need to book across multiple branches through the Ambel app?"
+  },
+  {
+    "qid":1085,
+    "id":3207,
+    "category":"Locations & Branches",
+    "question":"Where can I get branch contact details if I’m new here?"
+  },
+  {
+    "qid":1104,
+    "id":3189,
+    "category":"Locations & Branches",
+    "question":"Can I see which branch has earlier slots step by step?"
+  },
+  {
+    "qid":1105,
+    "id":3166,
+    "category":"Locations & Branches",
+    "question":"Is it possible to see branch opening hours quickly?"
+  },
+  {
+    "qid":1107,
+    "id":3118,
+    "category":"Locations & Branches",
+    "question":"Is it possible to search services by city as a first-time user?"
+  },
+  {
+    "qid":1133,
+    "id":3185,
+    "category":"Locations & Branches",
+    "question":"How can I see which branch has earlier slots step by step?"
+  },
+  {
+    "qid":1161,
+    "id":3205,
+    "category":"Locations & Branches",
+    "question":"How do I get branch contact details from my phone?"
+  },
+  {
+    "qid":1164,
+    "id":3176,
+    "category":"Locations & Branches",
+    "question":"What if I need to book across multiple branches without contacting support?"
+  },
+  {
+    "qid":1184,
+    "id":3072,
+    "category":"Locations & Branches",
+    "question":"When can I see directions to a clinic as a first-time user?"
+  },
+  {
+    "qid":1186,
+    "id":3196,
+    "category":"Locations & Branches",
+    "question":"Can I check local holiday schedules from my computer?"
+  },
+  {
+    "qid":1198,
+    "id":3249,
+    "category":"Locations & Branches",
+    "question":"When can I see branch-specific prices from my phone?"
+  }
+]

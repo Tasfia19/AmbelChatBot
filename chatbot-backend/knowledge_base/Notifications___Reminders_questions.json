@@ -1,0 +1,326 @@
+[
+  {
+    "qid":81,
+    "id":2364,
+    "category":"Notifications & Reminders",
+    "question":"When can I get reminders for subscription renewal from my computer?"
+  },
+  {
+    "qid":91,
+    "id":2193,
+    "category":"Notifications & Reminders",
+    "question":"What if I need to receive WhatsApp reminders on Ambel?"
+  },
+  {
+    "qid":99,
+    "id":2355,
+    "category":"Notifications & Reminders",
+    "question":"How do I get reminders for subscription renewal on Ambel?"
+  },
+  {
+    "qid":137,
+    "id":2358,
+    "category":"Notifications & Reminders",
+    "question":"Can I get reminders for subscription renewal from my phone?"
+  },
+  {
+    "qid":165,
+    "id":2317,
+    "category":"Notifications & Reminders",
+    "question":"Do you support be notified when a new review is posted from my computer?"
+  },
+  {
+    "qid":170,
+    "id":2360,
+    "category":"Notifications & Reminders",
+    "question":"What’s the best way to get reminders for subscription renewal step by step?"
+  },
+  {
+    "qid":187,
+    "id":2261,
+    "category":"Notifications & Reminders",
+    "question":"How can I get reminders for medication from my phone?"
+  },
+  {
+    "qid":189,
+    "id":2228,
+    "category":"Notifications & Reminders",
+    "question":"Is it possible to get a reminder 1 hour before if I’m new here?"
+  },
+  {
+    "qid":232,
+    "id":2248,
+    "category":"Notifications & Reminders",
+    "question":"What if I need to send reminders to a family member quickly?"
+  },
+  {
+    "qid":258,
+    "id":2199,
+    "category":"Notifications & Reminders",
+    "question":"Do you support receive WhatsApp reminders using Ambel?"
+  },
+  {
+    "qid":284,
+    "id":2304,
+    "category":"Notifications & Reminders",
+    "question":"How do I be notified when my doctor is available as a first-time user?"
+  },
+  {
+    "qid":397,
+    "id":2334,
+    "category":"Notifications & Reminders",
+    "question":"When can I receive invoice notifications if I’m new here?"
+  },
+  {
+    "qid":407,
+    "id":2383,
+    "category":"Notifications & Reminders",
+    "question":"Where can I get call start notifications using Ambel?"
+  },
+  {
+    "qid":410,
+    "id":2185,
+    "category":"Notifications & Reminders",
+    "question":"What’s the best way to receive email reminders quickly?"
+  },
+  {
+    "qid":414,
+    "id":2274,
+    "category":"Notifications & Reminders",
+    "question":"Can I get reminders for exercises or tasks using Ambel?"
+  },
+  {
+    "qid":422,
+    "id":2327,
+    "category":"Notifications & Reminders",
+    "question":"Is it possible to get updates on insurance status if I’m new here?"
+  },
+  {
+    "qid":443,
+    "id":2386,
+    "category":"Notifications & Reminders",
+    "question":"Who can help me get call start notifications if I’m new here?"
+  },
+  {
+    "qid":491,
+    "id":2357,
+    "category":"Notifications & Reminders",
+    "question":"Do you support get reminders for subscription renewal step by step?"
+  },
+  {
+    "qid":500,
+    "id":2313,
+    "category":"Notifications & Reminders",
+    "question":"Where can I be notified when a new review is posted from my computer?"
+  },
+  {
+    "qid":503,
+    "id":2374,
+    "category":"Notifications & Reminders",
+    "question":"When can I receive chat message alerts on Ambel?"
+  },
+  {
+    "qid":521,
+    "id":2253,
+    "category":"Notifications & Reminders",
+    "question":"Can I send reminders to a family member on Ambel?"
+  },
+  {
+    "qid":523,
+    "id":2206,
+    "category":"Notifications & Reminders",
+    "question":"Who can help me customize reminder timing quickly?"
+  },
+  {
+    "qid":529,
+    "id":2341,
+    "category":"Notifications & Reminders",
+    "question":"Can I receive invoice notifications on Ambel?"
+  },
+  {
+    "qid":531,
+    "id":2300,
+    "category":"Notifications & Reminders",
+    "question":"How do I be notified when my doctor is available on Ambel?"
+  },
+  {
+    "qid":554,
+    "id":2265,
+    "category":"Notifications & Reminders",
+    "question":"Do you support get reminders for medication from my computer?"
+  },
+  {
+    "qid":557,
+    "id":2318,
+    "category":"Notifications & Reminders",
+    "question":"When can I be notified when a new review is posted on Ambel?"
+  },
+  {
+    "qid":561,
+    "id":2212,
+    "category":"Notifications & Reminders",
+    "question":"How do I turn off reminders on Ambel?"
+  },
+  {
+    "qid":567,
+    "id":2321,
+    "category":"Notifications & Reminders",
+    "question":"How can I be notified when a new review is posted step by step?"
+  },
+  {
+    "qid":573,
+    "id":2330,
+    "category":"Notifications & Reminders",
+    "question":"Where can I get updates on insurance status as a first-time user?"
+  },
+  {
+    "qid":577,
+    "id":2251,
+    "category":"Notifications & Reminders",
+    "question":"What’s the best way to send reminders to a family member as a first-time user?"
+  },
+  {
+    "qid":676,
+    "id":2238,
+    "category":"Notifications & Reminders",
+    "question":"What’s the best way to get a reminder 24 hours before as a first-time user?"
+  },
+  {
+    "qid":709,
+    "id":2187,
+    "category":"Notifications & Reminders",
+    "question":"How can I receive email reminders step by step?"
+  },
+  {
+    "qid":715,
+    "id":2285,
+    "category":"Notifications & Reminders",
+    "question":"What’s the best way to receive payment due notifications if I’m new here?"
+  },
+  {
+    "qid":737,
+    "id":2237,
+    "category":"Notifications & Reminders",
+    "question":"What’s the best way to get a reminder 24 hours before using Ambel?"
+  },
+  {
+    "qid":762,
+    "id":2183,
+    "category":"Notifications & Reminders",
+    "question":"When can I receive email reminders quickly?"
+  },
+  {
+    "qid":790,
+    "id":2337,
+    "category":"Notifications & Reminders",
+    "question":"How do I receive invoice notifications step by step?"
+  },
+  {
+    "qid":793,
+    "id":2298,
+    "category":"Notifications & Reminders",
+    "question":"How do I get notifications for earlier slots using Ambel?"
+  },
+  {
+    "qid":825,
+    "id":2303,
+    "category":"Notifications & Reminders",
+    "question":"How do I be notified when my doctor is available if I’m new here?"
+  },
+  {
+    "qid":863,
+    "id":2226,
+    "category":"Notifications & Reminders",
+    "question":"Where can I get a reminder 1 hour before through the Ambel app?"
+  },
+  {
+    "qid":876,
+    "id":2268,
+    "category":"Notifications & Reminders",
+    "question":"Where can I get reminders for exercises or tasks through the Ambel app?"
+  },
+  {
+    "qid":881,
+    "id":2363,
+    "category":"Notifications & Reminders",
+    "question":"How do I get reminders for subscription renewal using Ambel?"
+  },
+  {
+    "qid":897,
+    "id":2236,
+    "category":"Notifications & Reminders",
+    "question":"When can I get a reminder 24 hours before on Ambel?"
+  },
+  {
+    "qid":915,
+    "id":2272,
+    "category":"Notifications & Reminders",
+    "question":"How can I get reminders for exercises or tasks from my phone?"
+  },
+  {
+    "qid":995,
+    "id":2367,
+    "category":"Notifications & Reminders",
+    "question":"Is it possible to receive chat message alerts using Ambel?"
+  },
+  {
+    "qid":1038,
+    "id":2346,
+    "category":"Notifications & Reminders",
+    "question":"How do I receive follow-up reminders step by step?"
+  },
+  {
+    "qid":1097,
+    "id":2296,
+    "category":"Notifications & Reminders",
+    "question":"Where can I get notifications for earlier slots through the Ambel app?"
+  },
+  {
+    "qid":1132,
+    "id":2182,
+    "category":"Notifications & Reminders",
+    "question":"When can I receive email reminders step by step?"
+  },
+  {
+    "qid":1149,
+    "id":2353,
+    "category":"Notifications & Reminders",
+    "question":"Who can help me receive follow-up reminders step by step?"
+  },
+  {
+    "qid":1160,
+    "id":2255,
+    "category":"Notifications & Reminders",
+    "question":"Who can help me send reminders to a family member using Ambel?"
+  },
+  {
+    "qid":1162,
+    "id":2242,
+    "category":"Notifications & Reminders",
+    "question":"Is it possible to get a reminder 24 hours before if I’m new here?"
+  },
+  {
+    "qid":1163,
+    "id":2232,
+    "category":"Notifications & Reminders",
+    "question":"When can I get a reminder 1 hour before using Ambel?"
+  },
+  {
+    "qid":1165,
+    "id":2192,
+    "category":"Notifications & Reminders",
+    "question":"How do I receive WhatsApp reminders from my computer?"
+  },
+  {
+    "qid":1176,
+    "id":2246,
+    "category":"Notifications & Reminders",
+    "question":"Is it possible to send reminders to a family member without contacting support?"
+  },
+  {
+    "qid":1177,
+    "id":2332,
+    "category":"Notifications & Reminders",
+    "question":"What if I need to get updates on insurance status using Ambel?"
+  }
+]

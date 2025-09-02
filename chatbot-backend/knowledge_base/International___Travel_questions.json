@@ -1,0 +1,314 @@
+[
+  {
+    "qid":3,
+    "id":4726,
+    "category":"International & Travel",
+    "question":"What’s the best way to find remote second opinions step by step?"
+  },
+  {
+    "qid":7,
+    "id":4627,
+    "category":"International & Travel",
+    "question":"Where can I find practitioners who speak my language quickly?"
+  },
+  {
+    "qid":8,
+    "id":4662,
+    "category":"International & Travel",
+    "question":"Do you support use international insurance if I’m new here?"
+  },
+  {
+    "qid":40,
+    "id":4699,
+    "category":"International & Travel",
+    "question":"Do you support schedule sessions around my travel from my computer?"
+  },
+  {
+    "qid":93,
+    "id":4672,
+    "category":"International & Travel",
+    "question":"Is it possible to verify prescriptions across borders step by step?"
+  },
+  {
+    "qid":105,
+    "id":4619,
+    "category":"International & Travel",
+    "question":"When can I see prices in my local currency quickly?"
+  },
+  {
+    "qid":106,
+    "id":4675,
+    "category":"International & Travel",
+    "question":"What if I need to verify prescriptions across borders if I’m new here?"
+  },
+  {
+    "qid":114,
+    "id":4804,
+    "category":"International & Travel",
+    "question":"Who can help me avoid foreign transaction fees step by step?"
+  },
+  {
+    "qid":167,
+    "id":4739,
+    "category":"International & Travel",
+    "question":"How do I get a referral internationally through the Ambel app?"
+  },
+  {
+    "qid":194,
+    "id":4796,
+    "category":"International & Travel",
+    "question":"Is it possible to pay with an international card from my computer?"
+  },
+  {
+    "qid":222,
+    "id":4665,
+    "category":"International & Travel",
+    "question":"How do I verify prescriptions across borders on Ambel?"
+  },
+  {
+    "qid":271,
+    "id":4784,
+    "category":"International & Travel",
+    "question":"Who can help me use a foreign phone number from my computer?"
+  },
+  {
+    "qid":275,
+    "id":4590,
+    "category":"International & Travel",
+    "question":"How can I book while I’m traveling abroad through the Ambel app?"
+  },
+  {
+    "qid":307,
+    "id":4674,
+    "category":"International & Travel",
+    "question":"What if I need to verify prescriptions across borders without contacting support?"
+  },
+  {
+    "qid":317,
+    "id":4733,
+    "category":"International & Travel",
+    "question":"What’s the best way to get a referral internationally from my computer?"
+  },
+  {
+    "qid":339,
+    "id":4771,
+    "category":"International & Travel",
+    "question":"What’s the best way to verify identity internationally from my phone?"
+  },
+  {
+    "qid":384,
+    "id":4730,
+    "category":"International & Travel",
+    "question":"How do I find remote second opinions without contacting support?"
+  },
+  {
+    "qid":406,
+    "id":4591,
+    "category":"International & Travel",
+    "question":"What if I need to book while I’m traveling abroad from my computer?"
+  },
+  {
+    "qid":461,
+    "id":4701,
+    "category":"International & Travel",
+    "question":"What if I need to schedule sessions around my travel step by step?"
+  },
+  {
+    "qid":495,
+    "id":4723,
+    "category":"International & Travel",
+    "question":"When can I find remote second opinions on Ambel?"
+  },
+  {
+    "qid":504,
+    "id":4618,
+    "category":"International & Travel",
+    "question":"Who can help me see prices in my local currency using Ambel?"
+  },
+  {
+    "qid":515,
+    "id":4702,
+    "category":"International & Travel",
+    "question":"What if I need to schedule sessions around my travel without contacting support?"
+  },
+  {
+    "qid":556,
+    "id":4644,
+    "category":"International & Travel",
+    "question":"Is it possible to check telehealth rules across borders from my computer?"
+  },
+  {
+    "qid":603,
+    "id":4736,
+    "category":"International & Travel",
+    "question":"Can I get a referral internationally on Ambel?"
+  },
+  {
+    "qid":609,
+    "id":4708,
+    "category":"International & Travel",
+    "question":"What’s the best way to schedule sessions around my travel using Ambel?"
+  },
+  {
+    "qid":621,
+    "id":4709,
+    "category":"International & Travel",
+    "question":"How do I get vaccine or travel health advice on Ambel?"
+  },
+  {
+    "qid":637,
+    "id":4617,
+    "category":"International & Travel",
+    "question":"Who can help me see prices in my local currency through the Ambel app?"
+  },
+  {
+    "qid":642,
+    "id":4773,
+    "category":"International & Travel",
+    "question":"When can I verify identity internationally on Ambel?"
+  },
+  {
+    "qid":646,
+    "id":4728,
+    "category":"International & Travel",
+    "question":"What if I need to find remote second opinions without contacting support?"
+  },
+  {
+    "qid":653,
+    "id":4775,
+    "category":"International & Travel",
+    "question":"How do I use a foreign phone number on Ambel?"
+  },
+  {
+    "qid":666,
+    "id":4724,
+    "category":"International & Travel",
+    "question":"When can I find remote second opinions as a first-time user?"
+  },
+  {
+    "qid":758,
+    "id":4729,
+    "category":"International & Travel",
+    "question":"How do I find remote second opinions if I’m new here?"
+  },
+  {
+    "qid":775,
+    "id":4600,
+    "category":"International & Travel",
+    "question":"Where can I pay in a different currency step by step?"
+  },
+  {
+    "qid":804,
+    "id":4673,
+    "category":"International & Travel",
+    "question":"Is it possible to verify prescriptions across borders if I’m new here?"
+  },
+  {
+    "qid":807,
+    "id":4594,
+    "category":"International & Travel",
+    "question":"Do you support book while I’m traveling abroad through the Ambel app?"
+  },
+  {
+    "qid":814,
+    "id":4640,
+    "category":"International & Travel",
+    "question":"Who can help me book in a different time zone if I’m new here?"
+  },
+  {
+    "qid":829,
+    "id":4661,
+    "category":"International & Travel",
+    "question":"Do you support use international insurance from my phone?"
+  },
+  {
+    "qid":875,
+    "id":4779,
+    "category":"International & Travel",
+    "question":"How do I use a foreign phone number step by step?"
+  },
+  {
+    "qid":877,
+    "id":4767,
+    "category":"International & Travel",
+    "question":"How can I verify identity internationally if I’m new here?"
+  },
+  {
+    "qid":905,
+    "id":4791,
+    "category":"International & Travel",
+    "question":"How do I pay with an international card using Ambel?"
+  },
+  {
+    "qid":912,
+    "id":4707,
+    "category":"International & Travel",
+    "question":"What’s the best way to schedule sessions around my travel without contacting support?"
+  },
+  {
+    "qid":914,
+    "id":4601,
+    "category":"International & Travel",
+    "question":"Where can I pay in a different currency as a first-time user?"
+  },
+  {
+    "qid":949,
+    "id":4694,
+    "category":"International & Travel",
+    "question":"Is it possible to find legal help in another country through the Ambel app?"
+  },
+  {
+    "qid":965,
+    "id":4807,
+    "category":"International & Travel",
+    "question":"How do I avoid foreign transaction fees without contacting support?"
+  },
+  {
+    "qid":979,
+    "id":4614,
+    "category":"International & Travel",
+    "question":"Where can I see prices in my local currency without contacting support?"
+  },
+  {
+    "qid":1010,
+    "id":4603,
+    "category":"International & Travel",
+    "question":"When can I pay in a different currency quickly?"
+  },
+  {
+    "qid":1056,
+    "id":4682,
+    "category":"International & Travel",
+    "question":"Do you support get care recommendations while traveling through the Ambel app?"
+  },
+  {
+    "qid":1060,
+    "id":4649,
+    "category":"International & Travel",
+    "question":"Where can I check telehealth rules across borders on Ambel?"
+  },
+  {
+    "qid":1090,
+    "id":4698,
+    "category":"International & Travel",
+    "question":"How do I schedule sessions around my travel on Ambel?"
+  },
+  {
+    "qid":1101,
+    "id":4691,
+    "category":"International & Travel",
+    "question":"Who can help me find legal help in another country if I’m new here?"
+  },
+  {
+    "qid":1140,
+    "id":4645,
+    "category":"International & Travel",
+    "question":"Is it possible to check telehealth rules across borders if I’m new here?"
+  },
+  {
+    "qid":1166,
+    "id":4777,
+    "category":"International & Travel",
+    "question":"How can I use a foreign phone number from my computer?"
+  }
+]

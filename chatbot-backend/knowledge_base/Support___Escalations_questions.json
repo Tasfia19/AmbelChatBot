@@ -1,0 +1,302 @@
+[
+  {
+    "qid":30,
+    "id":4286,
+    "category":"Support & Escalations",
+    "question":"Do you support close a support ticket through the Ambel app?"
+  },
+  {
+    "qid":54,
+    "id":4187,
+    "category":"Support & Escalations",
+    "question":"What if I need to call a support hotline from my computer?"
+  },
+  {
+    "qid":68,
+    "id":4291,
+    "category":"Support & Escalations",
+    "question":"How do I reopen a support ticket on Ambel?"
+  },
+  {
+    "qid":76,
+    "id":4198,
+    "category":"Support & Escalations",
+    "question":"How do I get help outside business hours using Ambel?"
+  },
+  {
+    "qid":110,
+    "id":4249,
+    "category":"Support & Escalations",
+    "question":"Is it possible to escalate an unresolved issue through the Ambel app?"
+  },
+  {
+    "qid":186,
+    "id":4152,
+    "category":"Support & Escalations",
+    "question":"How can I contact customer support from my phone?"
+  },
+  {
+    "qid":201,
+    "id":4168,
+    "category":"Support & Escalations",
+    "question":"How do I use live chat for help quickly?"
+  },
+  {
+    "qid":224,
+    "id":4160,
+    "category":"Support & Escalations",
+    "question":"Where can I use live chat for help from my phone?"
+  },
+  {
+    "qid":260,
+    "id":4359,
+    "category":"Support & Escalations",
+    "question":"Can I follow up on a past issue on Ambel?"
+  },
+  {
+    "qid":263,
+    "id":4247,
+    "category":"Support & Escalations",
+    "question":"How do I escalate an unresolved issue on Ambel?"
+  },
+  {
+    "qid":269,
+    "id":4331,
+    "category":"Support & Escalations",
+    "question":"When can I request a call back from support step by step?"
+  },
+  {
+    "qid":302,
+    "id":4217,
+    "category":"Support & Escalations",
+    "question":"When can I report a technical bug on Ambel?"
+  },
+  {
+    "qid":320,
+    "id":4204,
+    "category":"Support & Escalations",
+    "question":"Who can help me report a billing problem quickly?"
+  },
+  {
+    "qid":322,
+    "id":4244,
+    "category":"Support & Escalations",
+    "question":"How can I request a feature from my phone?"
+  },
+  {
+    "qid":334,
+    "id":4258,
+    "category":"Support & Escalations",
+    "question":"How do I check ticket status on Ambel?"
+  },
+  {
+    "qid":340,
+    "id":4313,
+    "category":"Support & Escalations",
+    "question":"How do I get help in my language on Ambel?"
+  },
+  {
+    "qid":347,
+    "id":4355,
+    "category":"Support & Escalations",
+    "question":"Can I verify my identity with support if I’m new here?"
+  },
+  {
+    "qid":355,
+    "id":4248,
+    "category":"Support & Escalations",
+    "question":"Is it possible to escalate an unresolved issue step by step?"
+  },
+  {
+    "qid":368,
+    "id":4164,
+    "category":"Support & Escalations",
+    "question":"Can I use live chat for help using Ambel?"
+  },
+  {
+    "qid":370,
+    "id":4302,
+    "category":"Support & Escalations",
+    "question":"How do I rate support quality on Ambel?"
+  },
+  {
+    "qid":401,
+    "id":4157,
+    "category":"Support & Escalations",
+    "question":"Is it possible to contact customer support from my computer?"
+  },
+  {
+    "qid":426,
+    "id":4363,
+    "category":"Support & Escalations",
+    "question":"Do you support follow up on a past issue as a first-time user?"
+  },
+  {
+    "qid":438,
+    "id":4226,
+    "category":"Support & Escalations",
+    "question":"How do I submit feedback step by step?"
+  },
+  {
+    "qid":480,
+    "id":4334,
+    "category":"Support & Escalations",
+    "question":"What’s the best way to request a call back from support step by step?"
+  },
+  {
+    "qid":508,
+    "id":4237,
+    "category":"Support & Escalations",
+    "question":"Do you support request a feature through the Ambel app?"
+  },
+  {
+    "qid":511,
+    "id":4215,
+    "category":"Support & Escalations",
+    "question":"Is it possible to report a technical bug if I’m new here?"
+  },
+  {
+    "qid":522,
+    "id":4162,
+    "category":"Support & Escalations",
+    "question":"What if I need to use live chat for help without contacting support?"
+  },
+  {
+    "qid":598,
+    "id":4250,
+    "category":"Support & Escalations",
+    "question":"Can I escalate an unresolved issue if I’m new here?"
+  },
+  {
+    "qid":599,
+    "id":4312,
+    "category":"Support & Escalations",
+    "question":"Can I rate support quality from my phone?"
+  },
+  {
+    "qid":611,
+    "id":4274,
+    "category":"Support & Escalations",
+    "question":"How do I add screenshots to a ticket quickly?"
+  },
+  {
+    "qid":633,
+    "id":4190,
+    "category":"Support & Escalations",
+    "question":"Where can I call a support hotline from my computer?"
+  },
+  {
+    "qid":668,
+    "id":4307,
+    "category":"Support & Escalations",
+    "question":"Do you support rate support quality step by step?"
+  },
+  {
+    "qid":703,
+    "id":4350,
+    "category":"Support & Escalations",
+    "question":"Do you support verify my identity with support step by step?"
+  },
+  {
+    "qid":707,
+    "id":4338,
+    "category":"Support & Escalations",
+    "question":"Who can help me share logs for troubleshooting as a first-time user?"
+  },
+  {
+    "qid":779,
+    "id":4354,
+    "category":"Support & Escalations",
+    "question":"Where can I verify my identity with support step by step?"
+  },
+  {
+    "qid":786,
+    "id":4361,
+    "category":"Support & Escalations",
+    "question":"Where can I follow up on a past issue from my computer?"
+  },
+  {
+    "qid":791,
+    "id":4268,
+    "category":"Support & Escalations",
+    "question":"Do you support check ticket status using Ambel?"
+  },
+  {
+    "qid":800,
+    "id":4212,
+    "category":"Support & Escalations",
+    "question":"Is it possible to report a billing problem on Ambel?"
+  },
+  {
+    "qid":878,
+    "id":4200,
+    "category":"Support & Escalations",
+    "question":"Is it possible to get help outside business hours from my computer?"
+  },
+  {
+    "qid":911,
+    "id":4342,
+    "category":"Support & Escalations",
+    "question":"Do you support share logs for troubleshooting from my computer?"
+  },
+  {
+    "qid":917,
+    "id":4317,
+    "category":"Support & Escalations",
+    "question":"Do you support get help in my language on Ambel?"
+  },
+  {
+    "qid":919,
+    "id":4236,
+    "category":"Support & Escalations",
+    "question":"How do I request a feature on Ambel?"
+  },
+  {
+    "qid":934,
+    "id":4295,
+    "category":"Support & Escalations",
+    "question":"How do I reopen a support ticket through the Ambel app?"
+  },
+  {
+    "qid":970,
+    "id":4358,
+    "category":"Support & Escalations",
+    "question":"Can I follow up on a past issue through the Ambel app?"
+  },
+  {
+    "qid":981,
+    "id":4351,
+    "category":"Support & Escalations",
+    "question":"What if I need to verify my identity with support quickly?"
+  },
+  {
+    "qid":1014,
+    "id":4180,
+    "category":"Support & Escalations",
+    "question":"When can I email support for complex issues step by step?"
+  },
+  {
+    "qid":1110,
+    "id":4290,
+    "category":"Support & Escalations",
+    "question":"Who can help me close a support ticket on Ambel?"
+  },
+  {
+    "qid":1135,
+    "id":4281,
+    "category":"Support & Escalations",
+    "question":"What if I need to close a support ticket without contacting support?"
+  },
+  {
+    "qid":1171,
+    "id":4182,
+    "category":"Support & Escalations",
+    "question":"When can I call a support hotline through the Ambel app?"
+  },
+  {
+    "qid":1196,
+    "id":4196,
+    "category":"Support & Escalations",
+    "question":"What’s the best way to get help outside business hours from my computer?"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "qid":16,
+    "id":4408,
+    "category":"AI Assistant Actions",
+    "question":"Is it possible to reschedule tomorrow’s appointment without contacting support?"
+  },
+  {
+    "qid":26,
+    "id":4411,
+    "category":"AI Assistant Actions",
+    "question":"Where can I reschedule tomorrow’s appointment if I’m new here?"
+  },
+  {
+    "qid":38,
+    "id":4469,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to check my insurance eligibility through the Ambel app?"
+  },
+  {
+    "qid":131,
+    "id":4499,
+    "category":"AI Assistant Actions",
+    "question":"How do I share my records with Dr. Khan as a first-time user?"
+  },
+  {
+    "qid":182,
+    "id":4507,
+    "category":"AI Assistant Actions",
+    "question":"How can I suggest cheaper alternatives nearby on Ambel?"
+  },
+  {
+    "qid":191,
+    "id":4421,
+    "category":"AI Assistant Actions",
+    "question":"Do you support cancel my appointment with Dr. Ahmed quickly?"
+  },
+  {
+    "qid":203,
+    "id":4454,
+    "category":"AI Assistant Actions",
+    "question":"Can I compare two practitioners I like from my computer?"
+  },
+  {
+    "qid":212,
+    "id":4488,
+    "category":"AI Assistant Actions",
+    "question":"What’s the best way to fill out my intake form from my profile through the Ambel app?"
+  },
+  {
+    "qid":266,
+    "id":4445,
+    "category":"AI Assistant Actions",
+    "question":"How do I compare two practitioners I like on Ambel?"
+  },
+  {
+    "qid":297,
+    "id":4447,
+    "category":"AI Assistant Actions",
+    "question":"Do you support compare two practitioners I like step by step?"
+  },
+  {
+    "qid":303,
+    "id":4460,
+    "category":"AI Assistant Actions",
+    "question":"Do you support estimate my total out-of-pocket cost if I’m new here?"
+  },
+  {
+    "qid":314,
+    "id":4403,
+    "category":"AI Assistant Actions",
+    "question":"Do you support reschedule tomorrow’s appointment without contacting support?"
+  },
+  {
+    "qid":342,
+    "id":4472,
+    "category":"AI Assistant Actions",
+    "question":"How do I check my insurance eligibility without contacting support?"
+  },
+  {
+    "qid":343,
+    "id":4508,
+    "category":"AI Assistant Actions",
+    "question":"How can I suggest cheaper alternatives nearby as a first-time user?"
+  },
+  {
+    "qid":350,
+    "id":4486,
+    "category":"AI Assistant Actions",
+    "question":"How can I fill out my intake form from my profile if I’m new here?"
+  },
+  {
+    "qid":404,
+    "id":4450,
+    "category":"AI Assistant Actions",
+    "question":"When can I compare two practitioners I like from my phone?"
+  },
+  {
+    "qid":409,
+    "id":4396,
+    "category":"AI Assistant Actions",
+    "question":"Do you support book my next appointment automatically using Ambel?"
+  },
+  {
+    "qid":437,
+    "id":4451,
+    "category":"AI Assistant Actions",
+    "question":"When can I compare two practitioners I like from my computer?"
+  },
+  {
+    "qid":467,
+    "id":4536,
+    "category":"AI Assistant Actions",
+    "question":"Where can I find a female therapist available now without contacting support?"
+  },
+  {
+    "qid":482,
+    "id":4504,
+    "category":"AI Assistant Actions",
+    "question":"Is it possible to suggest cheaper alternatives nearby using Ambel?"
+  },
+  {
+    "qid":487,
+    "id":4513,
+    "category":"AI Assistant Actions",
+    "question":"Is it possible to monitor my symptoms and flag concerns without contacting support?"
+  },
+  {
+    "qid":489,
+    "id":4489,
+    "category":"AI Assistant Actions",
+    "question":"How do I share my records with Dr. Khan on Ambel?"
+  },
+  {
+    "qid":506,
+    "id":4492,
+    "category":"AI Assistant Actions",
+    "question":"Who can help me share my records with Dr. Khan on Ambel?"
+  },
+  {
+    "qid":507,
+    "id":4406,
+    "category":"AI Assistant Actions",
+    "question":"Can I reschedule tomorrow’s appointment from my computer?"
+  },
+  {
+    "qid":513,
+    "id":4497,
+    "category":"AI Assistant Actions",
+    "question":"What’s the best way to share my records with Dr. Khan from my phone?"
+  },
+  {
+    "qid":534,
+    "id":4412,
+    "category":"AI Assistant Actions",
+    "question":"How do I cancel my appointment with Dr. Ahmed on Ambel?"
+  },
+  {
+    "qid":544,
+    "id":4476,
+    "category":"AI Assistant Actions",
+    "question":"How can I check my insurance eligibility step by step?"
+  },
+  {
+    "qid":545,
+    "id":4558,
+    "category":"AI Assistant Actions",
+    "question":"Where can I add my family member to the booking on Ambel?"
+  },
+  {
+    "qid":560,
+    "id":4398,
+    "category":"AI Assistant Actions",
+    "question":"How can I book my next appointment automatically through the Ambel app?"
+  },
+  {
+    "qid":574,
+    "id":4498,
+    "category":"AI Assistant Actions",
+    "question":"How do I share my records with Dr. Khan without contacting support?"
+  },
+  {
+    "qid":610,
+    "id":4579,
+    "category":"AI Assistant Actions",
+    "question":"What’s the best way to draft a message to my practitioner from my computer?"
+  },
+  {
+    "qid":612,
+    "id":4389,
+    "category":"AI Assistant Actions",
+    "question":"What’s the best way to find the earliest available slot quickly?"
+  },
+  {
+    "qid":617,
+    "id":4553,
+    "category":"AI Assistant Actions",
+    "question":"What’s the best way to set up recurring monthly check-ins through the Ambel app?"
+  },
+  {
+    "qid":623,
+    "id":4380,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to find the earliest available slot quickly?"
+  },
+  {
+    "qid":640,
+    "id":4582,
+    "category":"AI Assistant Actions",
+    "question":"When can I draft a message to my practitioner through the Ambel app?"
+  },
+  {
+    "qid":644,
+    "id":4475,
+    "category":"AI Assistant Actions",
+    "question":"Where can I check my insurance eligibility on Ambel?"
+  },
+  {
+    "qid":690,
+    "id":4544,
+    "category":"AI Assistant Actions",
+    "question":"How do I set up recurring monthly check-ins on Ambel?"
+  },
+  {
+    "qid":697,
+    "id":4452,
+    "category":"AI Assistant Actions",
+    "question":"How do I compare two practitioners I like from my computer?"
+  },
+  {
+    "qid":735,
+    "id":4505,
+    "category":"AI Assistant Actions",
+    "question":"Do you support suggest cheaper alternatives nearby as a first-time user?"
+  },
+  {
+    "qid":742,
+    "id":4422,
+    "category":"AI Assistant Actions",
+    "question":"Do you support cancel my appointment with Dr. Ahmed on Ambel?"
+  },
+  {
+    "qid":750,
+    "id":4416,
+    "category":"AI Assistant Actions",
+    "question":"How can I cancel my appointment with Dr. Ahmed step by step?"
+  },
+  {
+    "qid":806,
+    "id":4512,
+    "category":"AI Assistant Actions",
+    "question":"Is it possible to monitor my symptoms and flag concerns from my computer?"
+  },
+  {
+    "qid":831,
+    "id":4546,
+    "category":"AI Assistant Actions",
+    "question":"How do I set up recurring monthly check-ins step by step?"
+  },
+  {
+    "qid":870,
+    "id":4413,
+    "category":"AI Assistant Actions",
+    "question":"When can I cancel my appointment with Dr. Ahmed using Ambel?"
+  },
+  {
+    "qid":932,
+    "id":4583,
+    "category":"AI Assistant Actions",
+    "question":"When can I draft a message to my practitioner without contacting support?"
+  },
+  {
+    "qid":952,
+    "id":4382,
+    "category":"AI Assistant Actions",
+    "question":"Who can help me find the earliest available slot from my phone?"
+  },
+  {
+    "qid":967,
+    "id":4440,
+    "category":"AI Assistant Actions",
+    "question":"Do you support remind me 1 hour before the visit using Ambel?"
+  },
+  {
+    "qid":976,
+    "id":4407,
+    "category":"AI Assistant Actions",
+    "question":"Can I reschedule tomorrow’s appointment without contacting support?"
+  },
+  {
+    "qid":990,
+    "id":4446,
+    "category":"AI Assistant Actions",
+    "question":"Do you support compare two practitioners I like without contacting support?"
+  },
+  {
+    "qid":1003,
+    "id":4516,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to monitor my symptoms and flag concerns step by step?"
+  },
+  {
+    "qid":1023,
+    "id":4442,
+    "category":"AI Assistant Actions",
+    "question":"Who can help me remind me 1 hour before the visit as a first-time user?"
+  },
+  {
+    "qid":1026,
+    "id":4437,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to remind me 1 hour before the visit from my computer?"
+  },
+  {
+    "qid":1028,
+    "id":4438,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to remind me 1 hour before the visit from my phone?"
+  },
+  {
+    "qid":1029,
+    "id":4405,
+    "category":"AI Assistant Actions",
+    "question":"When can I reschedule tomorrow’s appointment using Ambel?"
+  },
+  {
+    "qid":1044,
+    "id":4391,
+    "category":"AI Assistant Actions",
+    "question":"How do I book my next appointment automatically quickly?"
+  },
+  {
+    "qid":1055,
+    "id":4543,
+    "category":"AI Assistant Actions",
+    "question":"Can I find a female therapist available now using Ambel?"
+  },
+  {
+    "qid":1066,
+    "id":4510,
+    "category":"AI Assistant Actions",
+    "question":"How do I suggest cheaper alternatives nearby through the Ambel app?"
+  },
+  {
+    "qid":1083,
+    "id":4480,
+    "category":"AI Assistant Actions",
+    "question":"Do you support fill out my intake form from my profile quickly?"
+  },
+  {
+    "qid":1100,
+    "id":4431,
+    "category":"AI Assistant Actions",
+    "question":"Is it possible to notify me if an earlier slot appears without contacting support?"
+  },
+  {
+    "qid":1145,
+    "id":4517,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to monitor my symptoms and flag concerns through the Ambel app?"
+  },
+  {
+    "qid":1146,
+    "id":4549,
+    "category":"AI Assistant Actions",
+    "question":"How can I set up recurring monthly check-ins through the Ambel app?"
+  },
+  {
+    "qid":1183,
+    "id":4522,
+    "category":"AI Assistant Actions",
+    "question":"How do I track my medication routine on Ambel?"
+  },
+  {
+    "qid":1197,
+    "id":4468,
+    "category":"AI Assistant Actions",
+    "question":"What if I need to check my insurance eligibility as a first-time user?"
+  }
+]

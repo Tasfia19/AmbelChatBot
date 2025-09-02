@@ -1,0 +1,446 @@
+[
+  {
+    "qid":18,
+    "id":883,
+    "category":"Payments & Billing",
+    "question":"What if I need to delete a saved card without contacting support?"
+  },
+  {
+    "qid":75,
+    "id":847,
+    "category":"Payments & Billing",
+    "question":"When can I pay with Nagad as a first-time user?"
+  },
+  {
+    "qid":86,
+    "id":844,
+    "category":"Payments & Billing",
+    "question":"Who can help me pay with Nagad from my computer?"
+  },
+  {
+    "qid":90,
+    "id":806,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to pay using Square on Ambel?"
+  },
+  {
+    "qid":95,
+    "id":955,
+    "category":"Payments & Billing",
+    "question":"How do I apply a promo code without contacting support?"
+  },
+  {
+    "qid":101,
+    "id":818,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to pay via SSLCommerz as a first-time user?"
+  },
+  {
+    "qid":116,
+    "id":834,
+    "category":"Payments & Billing",
+    "question":"How can I pay with bKash from my computer?"
+  },
+  {
+    "qid":120,
+    "id":1007,
+    "category":"Payments & Billing",
+    "question":"How can I request a payment link if I’m new here?"
+  },
+  {
+    "qid":139,
+    "id":1026,
+    "category":"Payments & Billing",
+    "question":"Is it possible to get a refund after cancellation from my computer?"
+  },
+  {
+    "qid":149,
+    "id":793,
+    "category":"Payments & Billing",
+    "question":"How do I pay using Stripe on Ambel?"
+  },
+  {
+    "qid":151,
+    "id":937,
+    "category":"Payments & Billing",
+    "question":"How can I see my payment history without contacting support?"
+  },
+  {
+    "qid":251,
+    "id":800,
+    "category":"Payments & Billing",
+    "question":"Do you support pay using Stripe quickly?"
+  },
+  {
+    "qid":264,
+    "id":1040,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to dispute a charge on Ambel?"
+  },
+  {
+    "qid":285,
+    "id":966,
+    "category":"Payments & Billing",
+    "question":"Is it possible to use a gift card quickly?"
+  },
+  {
+    "qid":287,
+    "id":899,
+    "category":"Payments & Billing",
+    "question":"What if I need to split a bill into installments from my phone?"
+  },
+  {
+    "qid":290,
+    "id":813,
+    "category":"Payments & Billing",
+    "question":"When can I pay using Square from my phone?"
+  },
+  {
+    "qid":300,
+    "id":902,
+    "category":"Payments & Billing",
+    "question":"Can I split a bill into installments without contacting support?"
+  },
+  {
+    "qid":301,
+    "id":1067,
+    "category":"Payments & Billing",
+    "question":"How do I see taxes or fees before paying if I’m new here?"
+  },
+  {
+    "qid":311,
+    "id":1002,
+    "category":"Payments & Billing",
+    "question":"How do I request a payment link on Ambel?"
+  },
+  {
+    "qid":316,
+    "id":817,
+    "category":"Payments & Billing",
+    "question":"Do you support pay via SSLCommerz from my computer?"
+  },
+  {
+    "qid":318,
+    "id":816,
+    "category":"Payments & Billing",
+    "question":"Do you support pay via SSLCommerz on Ambel?"
+  },
+  {
+    "qid":344,
+    "id":1024,
+    "category":"Payments & Billing",
+    "question":"How do I get a refund after cancellation on Ambel?"
+  },
+  {
+    "qid":359,
+    "id":1016,
+    "category":"Payments & Billing",
+    "question":"Where can I pay via POS at the clinic using Ambel?"
+  },
+  {
+    "qid":364,
+    "id":983,
+    "category":"Payments & Billing",
+    "question":"How can I tip my practitioner using Ambel?"
+  },
+  {
+    "qid":381,
+    "id":1033,
+    "category":"Payments & Billing",
+    "question":"Do you support get a refund after cancellation if I’m new here?"
+  },
+  {
+    "qid":383,
+    "id":887,
+    "category":"Payments & Billing",
+    "question":"Is it possible to delete a saved card if I’m new here?"
+  },
+  {
+    "qid":385,
+    "id":1053,
+    "category":"Payments & Billing",
+    "question":"How do I change the currency shown quickly?"
+  },
+  {
+    "qid":395,
+    "id":839,
+    "category":"Payments & Billing",
+    "question":"What if I need to pay with Nagad step by step?"
+  },
+  {
+    "qid":424,
+    "id":921,
+    "category":"Payments & Billing",
+    "question":"How can I get a receipt for my payment as a first-time user?"
+  },
+  {
+    "qid":428,
+    "id":811,
+    "category":"Payments & Billing",
+    "question":"Can I pay using Square quickly?"
+  },
+  {
+    "qid":440,
+    "id":975,
+    "category":"Payments & Billing",
+    "question":"How do I pay for a package or membership if I’m new here?"
+  },
+  {
+    "qid":442,
+    "id":782,
+    "category":"Payments & Billing",
+    "question":"How do I pay online with a card on Ambel?"
+  },
+  {
+    "qid":454,
+    "id":862,
+    "category":"Payments & Billing",
+    "question":"Who can help me pay in cash at the clinic as a first-time user?"
+  },
+  {
+    "qid":470,
+    "id":1055,
+    "category":"Payments & Billing",
+    "question":"Do you support change the currency shown quickly?"
+  },
+  {
+    "qid":492,
+    "id":970,
+    "category":"Payments & Billing",
+    "question":"Where can I pay for a package or membership step by step?"
+  },
+  {
+    "qid":533,
+    "id":1035,
+    "category":"Payments & Billing",
+    "question":"How do I dispute a charge on Ambel?"
+  },
+  {
+    "qid":562,
+    "id":809,
+    "category":"Payments & Billing",
+    "question":"Who can help me pay using Square from my computer?"
+  },
+  {
+    "qid":564,
+    "id":808,
+    "category":"Payments & Billing",
+    "question":"How do I pay using Square as a first-time user?"
+  },
+  {
+    "qid":576,
+    "id":837,
+    "category":"Payments & Billing",
+    "question":"How do I pay with Nagad on Ambel?"
+  },
+  {
+    "qid":595,
+    "id":1031,
+    "category":"Payments & Billing",
+    "question":"Can I get a refund after cancellation on Ambel?"
+  },
+  {
+    "qid":604,
+    "id":1047,
+    "category":"Payments & Billing",
+    "question":"When can I change the currency shown on Ambel?"
+  },
+  {
+    "qid":636,
+    "id":1038,
+    "category":"Payments & Billing",
+    "question":"Is it possible to dispute a charge without contacting support?"
+  },
+  {
+    "qid":667,
+    "id":1061,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to see taxes or fees before paying as a first-time user?"
+  },
+  {
+    "qid":673,
+    "id":917,
+    "category":"Payments & Billing",
+    "question":"Where can I get a receipt for my payment if I’m new here?"
+  },
+  {
+    "qid":679,
+    "id":865,
+    "category":"Payments & Billing",
+    "question":"How can I pay in cash at the clinic from my phone?"
+  },
+  {
+    "qid":686,
+    "id":1044,
+    "category":"Payments & Billing",
+    "question":"Who can help me dispute a charge through the Ambel app?"
+  },
+  {
+    "qid":714,
+    "id":1005,
+    "category":"Payments & Billing",
+    "question":"Who can help me request a payment link step by step?"
+  },
+  {
+    "qid":719,
+    "id":848,
+    "category":"Payments & Billing",
+    "question":"How do I pay with PayPal on Ambel?"
+  },
+  {
+    "qid":740,
+    "id":950,
+    "category":"Payments & Billing",
+    "question":"What if I need to apply a promo code from my phone?"
+  },
+  {
+    "qid":805,
+    "id":1062,
+    "category":"Payments & Billing",
+    "question":"How can I see taxes or fees before paying without contacting support?"
+  },
+  {
+    "qid":819,
+    "id":804,
+    "category":"Payments & Billing",
+    "question":"How do I pay using Square on Ambel?"
+  },
+  {
+    "qid":830,
+    "id":1000,
+    "category":"Payments & Billing",
+    "question":"Where can I handle a failed payment through the Ambel app?"
+  },
+  {
+    "qid":838,
+    "id":913,
+    "category":"Payments & Billing",
+    "question":"How can I pay partially now and the rest later from my phone?"
+  },
+  {
+    "qid":850,
+    "id":849,
+    "category":"Payments & Billing",
+    "question":"Where can I pay with PayPal without contacting support?"
+  },
+  {
+    "qid":864,
+    "id":1058,
+    "category":"Payments & Billing",
+    "question":"Who can help me see taxes or fees before paying without contacting support?"
+  },
+  {
+    "qid":872,
+    "id":835,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to pay with bKash without contacting support?"
+  },
+  {
+    "qid":873,
+    "id":885,
+    "category":"Payments & Billing",
+    "question":"Do you support delete a saved card without contacting support?"
+  },
+  {
+    "qid":895,
+    "id":1030,
+    "category":"Payments & Billing",
+    "question":"How can I get a refund after cancellation from my computer?"
+  },
+  {
+    "qid":910,
+    "id":932,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to download invoices on Ambel?"
+  },
+  {
+    "qid":916,
+    "id":796,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to pay using Stripe as a first-time user?"
+  },
+  {
+    "qid":929,
+    "id":1050,
+    "category":"Payments & Billing",
+    "question":"Is it possible to change the currency shown as a first-time user?"
+  },
+  {
+    "qid":938,
+    "id":1063,
+    "category":"Payments & Billing",
+    "question":"How can I see taxes or fees before paying using Ambel?"
+  },
+  {
+    "qid":946,
+    "id":895,
+    "category":"Payments & Billing",
+    "question":"Is it possible to split a bill into installments quickly?"
+  },
+  {
+    "qid":1005,
+    "id":795,
+    "category":"Payments & Billing",
+    "question":"Who can help me pay using Stripe if I’m new here?"
+  },
+  {
+    "qid":1011,
+    "id":877,
+    "category":"Payments & Billing",
+    "question":"What’s the best way to save a payment method from my computer?"
+  },
+  {
+    "qid":1018,
+    "id":943,
+    "category":"Payments & Billing",
+    "question":"How do I see my payment history without contacting support?"
+  },
+  {
+    "qid":1049,
+    "id":875,
+    "category":"Payments & Billing",
+    "question":"Who can help me save a payment method quickly?"
+  },
+  {
+    "qid":1051,
+    "id":1048,
+    "category":"Payments & Billing",
+    "question":"When can I change the currency shown if I’m new here?"
+  },
+  {
+    "qid":1079,
+    "id":951,
+    "category":"Payments & Billing",
+    "question":"What if I need to apply a promo code if I’m new here?"
+  },
+  {
+    "qid":1093,
+    "id":868,
+    "category":"Payments & Billing",
+    "question":"How do I pay in cash at the clinic if I’m new here?"
+  },
+  {
+    "qid":1148,
+    "id":789,
+    "category":"Payments & Billing",
+    "question":"Do you support pay online with a card as a first-time user?"
+  },
+  {
+    "qid":1151,
+    "id":863,
+    "category":"Payments & Billing",
+    "question":"Who can help me pay in cash at the clinic using Ambel?"
+  },
+  {
+    "qid":1182,
+    "id":1057,
+    "category":"Payments & Billing",
+    "question":"How do I see taxes or fees before paying on Ambel?"
+  },
+  {
+    "qid":1193,
+    "id":903,
+    "category":"Payments & Billing",
+    "question":"How do I pay partially now and the rest later on Ambel?"
+  }
+]

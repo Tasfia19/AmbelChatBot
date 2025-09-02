@@ -1,0 +1,290 @@
+[
+  {
+    "qid":15,
+    "id":1790,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I store prescriptions in my profile from my computer?"
+  },
+  {
+    "qid":47,
+    "id":1890,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Do you support receive lab results in the app through the Ambel app?"
+  },
+  {
+    "qid":57,
+    "id":1887,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Who can help me receive lab results in the app on Ambel?"
+  },
+  {
+    "qid":92,
+    "id":1880,
+    "category":"Health\/Legal Records & Documents",
+    "question":"What if I need to attach consent forms before a visit as a first-time user?"
+  },
+  {
+    "qid":136,
+    "id":1825,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Do you support restrict who can view my records quickly?"
+  },
+  {
+    "qid":142,
+    "id":1857,
+    "category":"Health\/Legal Records & Documents",
+    "question":"When can I get a medical certificate of attendance quickly?"
+  },
+  {
+    "qid":164,
+    "id":1877,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How can I attach consent forms before a visit on Ambel?"
+  },
+  {
+    "qid":238,
+    "id":1846,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Do you support request an official letter or certificate step by step?"
+  },
+  {
+    "qid":253,
+    "id":1801,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Can I request a copy of my files step by step?"
+  },
+  {
+    "qid":259,
+    "id":1906,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Is it possible to export my history as PDF using Ambel?"
+  },
+  {
+    "qid":324,
+    "id":1826,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Do you support restrict who can view my records from my phone?"
+  },
+  {
+    "qid":326,
+    "id":1730,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Where can I upload my medical records using Ambel?"
+  },
+  {
+    "qid":341,
+    "id":1750,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I download my visit summary on Ambel?"
+  },
+  {
+    "qid":345,
+    "id":1806,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Is it possible to delete a document I uploaded using Ambel?"
+  },
+  {
+    "qid":441,
+    "id":1780,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How can I share records with my insurer step by step?"
+  },
+  {
+    "qid":570,
+    "id":1756,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Is it possible to download my visit summary quickly?"
+  },
+  {
+    "qid":608,
+    "id":1884,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I receive lab results in the app from my computer?"
+  },
+  {
+    "qid":669,
+    "id":1918,
+    "category":"Health\/Legal Records & Documents",
+    "question":"What if I need to export my data in machine-readable format step by step?"
+  },
+  {
+    "qid":704,
+    "id":1820,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Is it possible to restrict who can view my records from my phone?"
+  },
+  {
+    "qid":721,
+    "id":1783,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I store prescriptions in my profile on Ambel?"
+  },
+  {
+    "qid":727,
+    "id":1886,
+    "category":"Health\/Legal Records & Documents",
+    "question":"When can I receive lab results in the app from my computer?"
+  },
+  {
+    "qid":732,
+    "id":1735,
+    "category":"Health\/Legal Records & Documents",
+    "question":"When can I upload my medical records through the Ambel app?"
+  },
+  {
+    "qid":746,
+    "id":1907,
+    "category":"Health\/Legal Records & Documents",
+    "question":"What’s the best way to export my history as PDF if I’m new here?"
+  },
+  {
+    "qid":747,
+    "id":1835,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Do you support see how long records are kept step by step?"
+  },
+  {
+    "qid":767,
+    "id":1915,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I export my data in machine-readable format on Ambel?"
+  },
+  {
+    "qid":777,
+    "id":1816,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I restrict who can view my records on Ambel?"
+  },
+  {
+    "qid":794,
+    "id":1859,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How can I get a medical certificate of attendance through the Ambel app?"
+  },
+  {
+    "qid":809,
+    "id":1757,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Where can I download my visit summary using Ambel?"
+  },
+  {
+    "qid":822,
+    "id":1937,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I track document review status on Ambel?"
+  },
+  {
+    "qid":840,
+    "id":1844,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Where can I request an official letter or certificate on Ambel?"
+  },
+  {
+    "qid":841,
+    "id":1917,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How can I export my data in machine-readable format using Ambel?"
+  },
+  {
+    "qid":853,
+    "id":1793,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Can I store prescriptions in my profile step by step?"
+  },
+  {
+    "qid":901,
+    "id":1765,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I share records with another practitioner step by step?"
+  },
+  {
+    "qid":953,
+    "id":1885,
+    "category":"Health\/Legal Records & Documents",
+    "question":"When can I receive lab results in the app step by step?"
+  },
+  {
+    "qid":980,
+    "id":1862,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Where can I send case files to my lawyer through the Ambel app?"
+  },
+  {
+    "qid":984,
+    "id":1732,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Who can help me upload my medical records through the Ambel app?"
+  },
+  {
+    "qid":989,
+    "id":1922,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Where can I export my data in machine-readable format quickly?"
+  },
+  {
+    "qid":993,
+    "id":1740,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Can I upload legal documents for review from my computer?"
+  },
+  {
+    "qid":997,
+    "id":1821,
+    "category":"Health\/Legal Records & Documents",
+    "question":"When can I restrict who can view my records from my phone?"
+  },
+  {
+    "qid":1015,
+    "id":1925,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Can I export my data in machine-readable format on Ambel?"
+  },
+  {
+    "qid":1019,
+    "id":1894,
+    "category":"Health\/Legal Records & Documents",
+    "question":"When can I link my wearable device data step by step?"
+  },
+  {
+    "qid":1039,
+    "id":1931,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I correct an error in my records if I’m new here?"
+  },
+  {
+    "qid":1059,
+    "id":1899,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Is it possible to link my wearable device data using Ambel?"
+  },
+  {
+    "qid":1080,
+    "id":1904,
+    "category":"Health\/Legal Records & Documents",
+    "question":"How do I export my history as PDF on Ambel?"
+  },
+  {
+    "qid":1112,
+    "id":1755,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Is it possible to download my visit summary from my phone?"
+  },
+  {
+    "qid":1130,
+    "id":1920,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Who can help me export my data in machine-readable format from my phone?"
+  },
+  {
+    "qid":1147,
+    "id":1802,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Can I request a copy of my files quickly?"
+  },
+  {
+    "qid":1158,
+    "id":1833,
+    "category":"Health\/Legal Records & Documents",
+    "question":"Where can I see how long records are kept quickly?"
+  }
+]
