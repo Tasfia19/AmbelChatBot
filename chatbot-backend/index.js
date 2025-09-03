@@ -1,17 +1,17 @@
 // chatbot-backend/index.js
 
 require("dotenv").config();
-const express = require("express");
-const cors = require("cors");
-const { MongoClient } = require("mongodb");
-const { GoogleGenerativeAI } = require("@google/generative-ai");
+import express, { json } from "express";
+import cors from "cors";
+import { MongoClient } from "mongodb";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const app = express();
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const client = new MongoClient(process.env.MONGO_URI);
 
 app.use(cors());
-app.use(express.json());
+app.use(json());
 const port = 3001;
 
 let professionalsCollection;

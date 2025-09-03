@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.2",
+    "mongodb": "^6.19.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "name": "chatbot-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
