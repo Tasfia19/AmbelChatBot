@@ -1,156 +1,105 @@
-// chatbot-backend/index.js
-
+// At the very top, load the environment variables from the .env file
 require("dotenv").config();
-import express, { json } from "express";
-import cors from "cors";
-import { MongoClient } from "mongodb";
-import { GoogleGenerativeAI } from "@google/generative-ai";
 
+const express = require("express");
+const cors = require("cors");
+const { MongoClient, ServerApiVersion } = require("mongodb");
+const { GoogleGenerativeAI } = require("@google/generative-ai");
+
+// --- 1. Initial Setup ---
 const app = express();
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const client = new MongoClient(process.env.MONGO_URI);
-
+// Use CORS to allow your UI to connect
 app.use(cors());
-app.use(json());
-const port = 3001;
+// Use express.json() to parse JSON request bodies
+app.use(express.json());
 
-let professionalsCollection;
+const PORT = process.env.PORT || 3000;
+const uri = process.env.MONGODB_URI;
+const geminiApiKey = process.env.GEMINI_API_KEY;
 
-app.post("/api/chat", async (req, res) => {
-  try {
-    const userMessage = req.body.message;
-    const history = req.body.history || [];
-    const formattedHistory = history
-      .map((msg) => `${msg.role}: ${msg.content}`)
-      .join("\n");
-
-    const routerModel = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-    const routerPrompt = `
-      Your task is to analyze a conversation and determine the next step for a professional search assistant.
-      The goal is to collect three slots: "type", "specialty", and "location".
-      Analyze the "Conversation History" and the latest "User" message.
-      
-      Available actions:
-      - "ASK_TYPE": If "type" is missing.
-      - "ASK_SPECIALTY": If "type" is known, but "specialty" is missing.
-      - "ASK_LOCATION": If "type" and "specialty" are known, but "location" is missing.
-      - "PERFORM_SEARCH": If "type", "specialty", and "location" are all known.
-      - "ANSWER_GENERAL": If the user is not trying to find a professional.
-
-      Return a single, valid JSON object and nothing else.
-      The JSON object must have two keys:
-      1. "action": One of the five available action strings.
-      2. "slots": A JSON object containing the values for "type", "specialty", and "location" that have been collected so far.
-
-      Conversation History:
-      ${formattedHistory}
-      User: ${userMessage}
-    `;
-
-    const routerResult = await routerModel.generateContent({
-      contents: [{ role: "user", parts: [{ text: routerPrompt }] }],
-      generationConfig: {
-        responseMimeType: "application/json",
-      },
-    });
-
-    const routerResponseText = routerResult.response.text();
-    const decision = JSON.parse(routerResponseText);
-
-    let aiReply = "I'm not sure how to help with that.";
-
-    switch (decision.action) {
-      case "ASK_TYPE":
-        aiReply = "Which professional do you need, like a doctor or a lawyer?";
-        break;
-      case "ASK_SPECIALTY":
-        aiReply = `What kind of ${
-          decision.slots.type || "professional"
-        } would you like to see?`;
-        break;
-      case "ASK_LOCATION":
-        aiReply = "And where are you located?";
-        break;
-      case "PERFORM_SEARCH":
-        // --- FINAL FIX: Ensure all slots are lowercase for consistency ---
-        const type = decision.slots.type.toLowerCase();
-        const specialty = decision.slots.specialty.toLowerCase();
-        const location = decision.slots.location.toLowerCase();
-        // -----------------------------------------------------------------
-
-        const searchQuery = `A ${specialty} ${type} in ${location}`;
-        const embeddingModel = genAI.getGenerativeModel({
-          model: "text-embedding-004",
-        });
-        const embeddingResult = await embeddingModel.embedContent(searchQuery);
-        const searchEmbedding = embeddingResult.embedding.values;
-
-        const filter = {
-          type: { $eq: type },
-          location: { $eq: location },
-        };
-
-        const searchPipeline = [
-          {
-            $vectorSearch: {
-              index: "default",
-              path: "embedding",
-              queryVector: searchEmbedding,
-              numCandidates: 100,
-              limit: 3,
-              filter: filter,
-            },
-          },
-        ];
-
-        // --- DEBUG LOGS TO SEE THE QUERY AND RESULT ---
-        console.log("--- DEBUG: Sending this query to MongoDB ---");
-        console.log(JSON.stringify(searchPipeline, null, 2));
-
-        const searchResults = await professionalsCollection
-          .aggregate(searchPipeline)
-          .toArray();
-
-        console.log("--- DEBUG: Received this result from MongoDB ---");
-        console.log(searchResults);
-        // ---------------------------------------------
-
-        if (searchResults.length > 0) {
-          const resultsText = searchResults
-            .map((r) => `${r.name} (${r.specialty}) in ${r.location}`)
-            .join(", ");
-          aiReply = `I found these professionals for you: ${resultsText}. Do you want to see their availability?`;
-        } else {
-          aiReply = `I'm sorry, I couldn't find any professionals matching your criteria.`;
-        }
-        break;
-      case "ANSWER_GENERAL":
-        const chatModel = genAI.getGenerativeModel({
-          model: "gemini-1.5-flash",
-        });
-        const chatResult = await chatModel.generateContent(userMessage);
-        aiReply = chatResult.response.text();
-        break;
-    }
-    res.json({ reply: aiReply });
-  } catch (error) {
-    console.error("Error in /api/chat:", error);
-    res.status(500).json({ error: "Something went wrong." });
-  }
+// --- 2. Initialize Clients ---
+const mongoClient = new MongoClient(uri, {
+	serverApi: {
+		version: ServerApiVersion.v1,
+		strict: true,
+		deprecationErrors: true,
+	},
+});
+const genAI = new GoogleGenerativeAI(geminiApiKey);
+const geminiModel = genAI.getGenerativeModel({
+	model: "gemini-1.5-flash-latest",
 });
 
-async function startServer() {
-  try {
-    await client.connect();
-    console.log("Connected to MongoDB.");
-    professionalsCollection = client.db("ambel_db").collection("professionals");
-    app.listen(port, () => {
-      console.log(`Server is running at http://localhost:${port}`);
-    });
-  } catch (error) {
-    console.error("Failed to connect to database", error);
-    process.exit(1);
-  }
+// --- 3. Database Connection ---
+async function connectToDbAndSetup() {
+	try {
+		await mongoClient.connect();
+		console.log("✅ Successfully connected to MongoDB!");
+	} catch (err) {
+		console.error("❌ Failed to connect to MongoDB", err);
+		process.exit(1);
+	}
 }
+connectToDbAndSetup();
 
-startServer();
+// --- 4. Express Routes ---
+// A simple test route
+app.get("/", (req, res) => {
+	res.send("Hello from the Ambel AI Backend! 👋");
+});
+
+// The main chat endpoint
+app.post("/chat", async (req, res) => {
+	try {
+		const userInput = req.body.question;
+		if (!userInput) {
+			return res.status(400).json({ answer: "Error: No question provided." });
+		}
+		console.log(`Received a question: "${userInput}"`);
+
+		const lowerCaseInput = userInput.toLowerCase();
+
+		// Rule 1: Handle greetings
+		if (lowerCaseInput === "hi" || lowerCaseInput === "hello") {
+			res.json({
+				answer: "Hello! I am the Ambel Bot. How can I help you today?",
+			});
+		} else {
+			// Rule 2: If not a greeting, search the knowledge base
+			const db = mongoClient.db("ambel_chatbot_db");
+			const collection = db.collection("knowledge_base");
+
+			// Use a case-insensitive regex to find a match
+			const query = { question: { $regex: userInput, $options: "i" } };
+			const searchResult = await collection.findOne(query);
+
+			if (searchResult) {
+				// If a document is found, use it as context for Gemini
+				const context = searchResult.answer;
+				const prompt = `Based on this information: "${context}", please provide a friendly and conversational answer to the user's question: "${userInput}".`;
+
+				// Call the Gemini API
+				const result = await geminiModel.generateContent(prompt);
+				const response = await result.response;
+				const finalAnswer = response.text();
+
+				console.log(`Generated answer: "${finalAnswer}"`);
+				res.json({ answer: finalAnswer });
+			} else {
+				// If no document is found in the database
+				res.json({
+					answer:
+						"I'm sorry, I don't have information about that. Please try another question.",
+				});
+			}
+		}
+	} catch (error) {
+		console.error("Error processing chat request:", error);
+		res.status(500).json({ answer: "An error occurred on the server." });
+	}
+});
+
+// --- 5. Start the Server ---
+app.listen(PORT, () => {
+	console.log(`Server is running on http://localhost:${PORT}`);
+});
